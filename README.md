@@ -13,5 +13,5 @@ This repository contains public files released by the Eclipse team.
 
 ## License
 
-[CC-BY-4.0 license](https://github.com/EclipseCard/Public-Files#CC-BY-4.0-1-ov-file)
+All Rights Reserved.
 
