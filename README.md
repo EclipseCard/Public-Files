@@ -13,5 +13,5 @@ This repository contains public files released by the Eclipse team.
 
 ## License
 
-All Rights Reserved.
+© 2024 EclipseCard, Inc. All Rights Reserved.
 
